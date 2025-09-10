@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: vqgespy
+Version: 0.1.0
+Summary: Python frontend for VQGES with pybind11 core
+Author: ZiTong Zhou
+Author-email: Your Name <your@email.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: pyvqges
+Requires-Dist: numpy
+Requires-Dist: scipy

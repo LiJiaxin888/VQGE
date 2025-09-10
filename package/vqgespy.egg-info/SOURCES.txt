@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+vqgespy/__init__.py
+vqgespy/utils.py
+vqgespy.egg-info/PKG-INFO
+vqgespy.egg-info/SOURCES.txt
+vqgespy.egg-info/dependency_links.txt
+vqgespy.egg-info/requires.txt
+vqgespy.egg-info/top_level.txt
