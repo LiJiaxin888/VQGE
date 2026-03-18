@@ -1,3 +1,0 @@
-pyvqges
-numpy
-scipy
